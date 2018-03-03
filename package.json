@@ -1,0 +1,20 @@
+{
+  "name": "phaser-2-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser-ce": "^2.10.1"
+  },
+  "devDependencies": {
+    "file-loader": "^1.1.11",
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.10"
+  }
+}
